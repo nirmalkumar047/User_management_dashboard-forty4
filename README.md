@@ -16,19 +16,6 @@
 
 ---
 
-## 📋 Table of Contents
-
-- [🎯 Overview](#overview)
-- [✨ Features](#features)
-- [🏗️ Architecture](#architecture)
-- [🛠️ Tech Stack](#tech-stack)
-- [📦 Installation](#installation)
-- [🚀 Usage](#usage)
-- [🔧 API Reference](#api-reference)
-- [📱 Screenshots](#screenshots)
-- [🤝 Contributing](#contributing)
-- [📄 License](#license)
-- [👨‍💻 Author](#author)
 
 ---
 
